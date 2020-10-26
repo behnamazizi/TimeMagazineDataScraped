@@ -1,5 +1,5 @@
 # Time Magazine
-Scrapped data from all published Time Magazine includes Title, Date of Publish etc.
+Scrapped data from all published Time Magazines includes Title, Date of Publish etc.
 from (Mar. 3, 1923) to (Nov. 2, 2020)
 ```
 {
